@@ -1,0 +1,6 @@
+# 2fac.net robots.txt
+
+User-agent: *
+Allow: /
+
+Sitemap: https://2fac.net/sitemap.xml
